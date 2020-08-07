@@ -1,0 +1,4 @@
+Class A():
+  print("print:A")
+  A.print()
+  
