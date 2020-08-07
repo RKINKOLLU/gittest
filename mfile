@@ -1,4 +1,6 @@
 Class A():
   print("print:A")
-  A.print()
-  
+A.print()
+Class B():
+  print("print:B")
+B.print()  
